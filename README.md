@@ -1,7 +1,7 @@
-# Hospital Readmission Project
+# Clinical Readmission Project
 
 ## Overview
-This project predicts 30-day hospital readmissions using structured and unstructured data. It includes data cleaning, modeling, and entity extraction from discharge notes.
+This project predicts 30-day clinical readmissions using structured and unstructured data. It includes data cleaning, modeling, and entity extraction from discharge notes.
 
 ## How to Run
 1. Install dependencies with:
