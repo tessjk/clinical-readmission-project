@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+transformers
+torch
+matplotlib
+jupyter
+spacy
+en_core_web_sm
+transformers
+sentencepiece
+torch
